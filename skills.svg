@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="376" viewBox="0 0 900 376">
+<defs>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+<filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="376" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="450.0" y="42" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="20" font-weight="bold" fill="#36BCF7" letter-spacing="3">LEVELING UP</text>
+<text x="450.0" y="64" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="12" fill="#8b949e">skills matrix · updated as I grow</text>
+<text x="30" y="105" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#c9d1d9">Python</text>
+<rect x="215" y="92" width="540" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+<rect x="215" y="92" width="0" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;459;459;0" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.0s" repeatCount="indefinite"/></rect>
+<circle cx="215" cy="99" r="5" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="215;674;674;215" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="777" y="105" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" font-weight="bold" fill="#36BCF7">85%<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.9;1" dur="7s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="30" y="151" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#c9d1d9">SQL &amp; Databases</text>
+<rect x="215" y="138" width="540" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+<rect x="215" y="138" width="0" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;405;405;0" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.25s" repeatCount="indefinite"/></rect>
+<circle cx="215" cy="145" r="5" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="215;620;620;215" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.25s" repeatCount="indefinite"/></circle>
+<text x="777" y="151" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" font-weight="bold" fill="#36BCF7">75%<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.9;1" dur="7s" begin="0.25s" repeatCount="indefinite"/></text>
+<text x="30" y="197" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#c9d1d9">Linux &amp; Git</text>
+<rect x="215" y="184" width="540" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+<rect x="215" y="184" width="0" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;432;432;0" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.5s" repeatCount="indefinite"/></rect>
+<circle cx="215" cy="191" r="5" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="215;647;647;215" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="777" y="197" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" font-weight="bold" fill="#36BCF7">80%<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.9;1" dur="7s" begin="0.5s" repeatCount="indefinite"/></text>
+<text x="30" y="243" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#c9d1d9">Data Analysis</text>
+<rect x="215" y="230" width="540" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+<rect x="215" y="230" width="0" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;378;378;0" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.75s" repeatCount="indefinite"/></rect>
+<circle cx="215" cy="237" r="5" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="215;593;593;215" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="0.75s" repeatCount="indefinite"/></circle>
+<text x="777" y="243" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" font-weight="bold" fill="#36BCF7">70%<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.9;1" dur="7s" begin="0.75s" repeatCount="indefinite"/></text>
+<text x="30" y="289" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#c9d1d9">C / Algorithms</text>
+<rect x="215" y="276" width="540" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+<rect x="215" y="276" width="0" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;351;351;0" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="1.0s" repeatCount="indefinite"/></rect>
+<circle cx="215" cy="283" r="5" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="215;566;566;215" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="1.0s" repeatCount="indefinite"/></circle>
+<text x="777" y="289" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" font-weight="bold" fill="#36BCF7">65%<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.9;1" dur="7s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="30" y="335" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#c9d1d9">Machine Learning</text>
+<rect x="215" y="322" width="540" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+<rect x="215" y="322" width="0" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;297;297;0" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="1.25s" repeatCount="indefinite"/></rect>
+<circle cx="215" cy="329" r="5" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="215;512;512;215" keyTimes="0;0.3;0.9;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1;0.4 0 1 1" dur="7s" begin="1.25s" repeatCount="indefinite"/></circle>
+<text x="777" y="335" font-family="'Courier New','DejaVu Sans Mono',Consolas,monospace" font-size="15" font-weight="bold" fill="#36BCF7">55%<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.9;1" dur="7s" begin="1.25s" repeatCount="indefinite"/></text>
+</svg>

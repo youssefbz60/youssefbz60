@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="10" viewBox="0 0 1000 10">
+<defs>
+<linearGradient id="base" x1="0" x2="1"><stop offset="0" stop-color="#36BCF7" stop-opacity="0"/><stop offset="0.5" stop-color="#36BCF7" stop-opacity="0.55"/><stop offset="1" stop-color="#36BCF7" stop-opacity="0"/></linearGradient>
+<linearGradient id="pulse" x1="0" x2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></linearGradient>
+<filter id="gl" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="0" y="4" width="1000" height="2" fill="url(#base)"/>
+<rect x="-160" y="3" width="160" height="4" rx="2" fill="url(#pulse)" filter="url(#gl)"><animate attributeName="x" values="-160;1000" dur="3.2s" repeatCount="indefinite"/></rect>
+<rect x="-160" y="4" width="160" height="2" rx="1" fill="url(#pulse)"><animate attributeName="x" values="-160;1000" dur="3.2s" repeatCount="indefinite"/></rect>
+</svg>
