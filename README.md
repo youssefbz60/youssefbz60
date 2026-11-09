@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/hero.svg" width="100%" alt="Youssef Bouyzourn"/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/hero.svg" width="100%" alt="Youssef Bouyzourn"/>
 
 <a href="https://github.com/youssefbz60">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Salam+%F0%9F%91%8B+Ana+Youssef;Data+%26+AI+Engineering+Student+%40+ENSA+Khouribga;I+turn+data+into+insights+and+ideas+into+code;Building.+Breaking.+Learning.+Repeat." alt="Typing SVG"/>
@@ -12,11 +12,11 @@
 <img src="https://img.shields.io/github/followers/youssefbz60?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0F2027" alt="followers"/>
 <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0F2027" alt="kali"/>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/terminal.svg" width="85%" alt="terminal"/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/terminal.svg" width="85%" alt="terminal"/>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/divider.svg" width="100%" alt=""/>
 
 <h2>👨‍💻 About Me</h2>
 
@@ -34,7 +34,7 @@ I love solving problems, exploring systems and turning curiosity into real proje
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/divider.svg" width="100%" alt=""/>
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -42,9 +42,9 @@ I love solving problems, exploring systems and turning curiosity into real proje
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/skills.svg" width="85%" alt="skills"/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/skills.svg" width="85%" alt="skills"/>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/divider.svg" width="100%" alt=""/>
 
 <h2>🌱 Currently Working On</h2>
 
@@ -57,7 +57,7 @@ I love solving problems, exploring systems and turning curiosity into real proje
   <tr><td align="center">🔵</td><td>Exploring Machine Learning &amp; AI foundations</td></tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/divider.svg" width="100%" alt=""/>
 
 <h2>📊 GitHub Statistics</h2>
 
@@ -68,7 +68,7 @@ I love solving problems, exploring systems and turning curiosity into real proje
 
 <img src="https://streak-stats.demolab.com?user=youssefbz60&theme=tokyonight&hide_border=true&fire=36BCF7&currStreakLabel=36BCF7&ring=36BCF7&date_format=j%20M%5B%20Y%5D" alt="streak"/>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/divider.svg" width="100%" alt=""/>
 
 <h2>🐍 Contribution Snake</h2>
 
@@ -78,7 +78,7 @@ I love solving problems, exploring systems and turning curiosity into real proje
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefbz60&theme=tokyo-night&hide_border=true&area=true&point=36BCF7&line=36BCF7&custom_title=Recent%20Contributions" width="100%" alt="activity"/>
 
-<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/youssefbz60/youssefbz60/main/divider.svg" width="100%" alt=""/>
 
 <!--
 <h2>🚀 Featured Projects</h2>
